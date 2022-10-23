@@ -8,7 +8,7 @@
 스레드2가 실행되고 3초 후 쓰레드2의 실행 결과 출력
 
 ### 실습 내용
-![실행결과](resources/Screen Shot 2022-10-23 at 6.11.46 PM.png)
+![실행결과](https://user-images.githubusercontent.com/46879264/197384720-636acac5-8c48-42c8-bab4-cec8b84ad47e.png)
 
 자바의 락은 객체 단위임을 이번 테스트로 확인한다
 
